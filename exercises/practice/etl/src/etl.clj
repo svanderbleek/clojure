@@ -10,4 +10,3 @@
              {}
              source))
 
-(transform {1 ["A"]})
